@@ -80,6 +80,12 @@ Nᴀᴍᴇ - {}
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
 
+Contact Our Help Channel or Contact Admin 
+
+Help Channel @UniformHelp 
+
+Admin @Darkworld008 
+
 📝 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
 ⚜️ ᴇxᴀᴍᴘʟᴇ : Jawan or Jawan 2023 
@@ -366,7 +372,7 @@ Requested by : {message.from_user.mention}</b>"""
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/dreamcinezone'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/darkworld008'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -453,11 +459,11 @@ Requested by : {message.from_user.mention}</b>"""
 
 ⚜️ 20 𝑹𝒖𝒑𝒂𝒚𝒆 👉 15 𝒅𝒂𝒚𝒔 
 
-⚜️ 40 𝑹𝒖𝒑𝒂𝒚𝒆 👉 30 𝒅𝒂𝒚𝒔 
+⚜️ 50 𝑹𝒖𝒑𝒂𝒚𝒆 👉 30 𝒅𝒂𝒚𝒔 
 
-⚜️ 55 𝑹𝒖𝒑𝒂𝒚𝒆 👉 45 𝒅𝒂𝒚𝒔 
+⚜️ 65 𝑹𝒖𝒑𝒂𝒚𝒆 👉 45 𝒅𝒂𝒚𝒔 
 
-⚜️ 75 𝑹𝒖𝒑𝒂𝒚𝒆 👉 60 𝒅𝒂𝒚𝒔</blockquote>
+⚜️ 85 𝑹𝒖𝒑𝒂𝒚𝒆 👉 60 𝒅𝒂𝒚𝒔</blockquote>
 
 𝑺𝒆𝒍𝒆𝒄𝒕 𝒀𝒐𝒖𝒓 𝑷𝒂𝒚𝒎𝒆𝒏𝒕 𝑴𝒆𝒕𝒉𝒐𝒅.....
 
@@ -474,7 +480,7 @@ Requested by : {message.from_user.mention}</b>"""
 
     SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
 
- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/Deendayal403/Deendayal_dhakad.git>Deendayal_Botz</a>\n """
+ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=http://t.me/darkworld008>Deendayal_Botz</a>\n """
 
     EXTRAF_TXT =""" <b> ʜᴇʀᴇ ɪꜱ ᴍʏ ᴇxᴛʀᴀ ꜰᴇᴀᴛᴜʀᴇꜱ </b>"""
 
